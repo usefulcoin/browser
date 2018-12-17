@@ -1,0 +1,12 @@
+{
+  "name": "browser",
+  "version": "1.0.0",
+  "description": "HTML5UP browser.min.js",
+  "keywords": [ "browser", "html5" ],
+  "homepage": "http://github.com/usefulcoin/browser",
+  "repository": { "type": "git",
+                  "url": "https://github.com/usefulcoin/browser"
+                },
+  "license": "MIT",
+  "main": "./browser.min.js"
+}
